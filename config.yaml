@@ -1,0 +1,65 @@
+baseURL: http://examplesite.com
+languageCode: en-us
+summaryLength: '10'
+theme: kross-hugo
+title: Simeon portfolio
+params:
+  address: Street n*10 secteur n*2 Zakin Koudougou, Burkina Faso
+  author: Wend-Benedo Simeon ZONGO
+  contact:
+    enable: yes
+    form_action: '#'
+  cookies:
+    enable: yes
+    expire_days: 2
+  copyright: Copyright &design 2021 by Simeon ZONGO
+  description: This is meta description
+  email: zongowsimeon@email.com
+  google_analytics_id: ''
+  home: Home
+  logo: ''
+  map:
+    enable: yes
+    gmap_api: https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en
+    map_latitude: '51.5223477'
+    map_longitude: '-0.1622023'
+    map_marker: images/marker.png
+  phone: +226 67 60 24 70/ 73 05 37 78
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/slick/slick.css
+      - link: plugins/themify-icons/themify-icons.css
+    js:
+      - link: plugins/jQuery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/shuffle/shuffle.min.js
+      - link: plugins/google-map/map.js
+  preloader:
+    enable: yes
+    preloader: images/preloader.gif
+  social:
+    - URL: 'https://web.facebook.com/Digital-Conception-539489796964909'
+      icon: ti-facebook
+    - URL: 'https://www.instagram.com/invites/contact/?i=1dlolpg0lj8us&utm_content=95fzhja'
+      icon: ti-instagram
+    - URL: 'https://www.linkedin.com/in/zongo-wend-benedo-simeon-536825189'
+      icon: ti-linkedin
+    - URL: 'https:www.twitter.com/@zongo_simeon'
+      icon: ti-twitter-alt
+  theme_color: '#41228e'
+menu:
+  main:
+    - URL: about
+      name: About
+      weight: 1
+    - URL: blog
+      name: Blog
+      weight: 2
+    - URL: portfolio
+      name: Portfolio
+      weight: 3
+    - URL: contact
+      name: Contact
+      weight: 4

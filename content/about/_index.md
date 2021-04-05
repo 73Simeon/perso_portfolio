@@ -1,13 +1,19 @@
 ---
-author_image: images/about/author.jpg
+author_image: images/about/mon.jpg
 author_signature: images/about/signature.png
 description: This is meta description.
 draft: false
 title: About
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Biogragrphie
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+My Name is ***Wend-Benedo Simeon ZONGO***.I am **24 old**.I am single.I leave in *Koudougou, Burkina Faso*.  I am student in IT domain at **Burkina Institute of Technology**.Senior Web Developer specializing in front end  
+and back end development. Experienced with all stages of the development cycle for dynamic web projects. Well versed in numerous programming languages including HTML5, PHP OOP, JavaScript, Python with pandas, matplotib and numpy, MySQL. Strong background in Project management and customer relations.Desktop and mobile App developer with **Kivy module**
+![](kivy-icon-64.ico).
+### Hobbies
+I am really really passionate in programming especially with **python**.
+I like play football, follow Tv march. My best club that i like is Real Madrid and CR7 is my Best player that i imitate when i am paying.
+I am yet travel in Ivory Cost many time. I like my country ***Burkina Faso***.I am avdvanced in english and frensh speaking.
+### Dream
+I want to be an expert in data analitics.

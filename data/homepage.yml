@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Beginner in data analisize, I am a Senior Web Developer specializing in front end and back end development. Experienced with all stages of the development cycle for dynamic web projects. Well -versed in numerous programming languages including HTML5, PHP OOP, JavaScript, Python with pandas, matplotib and numpy, MySQL. Strong background in Project management and customer relations.Desktop and mobile App developer with **Kivy module**"
   button:
     enable : true
     label : "know more"
@@ -16,25 +16,25 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Design"
-      progress : "90%"
+    - title : "Web Design & Infography"
+      progress : "80%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "Python & Kivy programming"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
-      progress : "80%"
+    - title : "Data Analizing in Python and R"
+      progress : "50%"
       color : "#bdecf6"
       
-    - title : "Web App"
-      progress : "70%"
+    - title : "Web App and Mobile"
+      progress : "60%"
       color : "#ffbcaa"
 
 # experience
 experience:
-  enable : true
+  enable : false
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
@@ -55,54 +55,54 @@ experience:
 # education
 education:
   enable : true
-  title : "Education"
+  title : "School Career"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "Bachelor of Science"
+      year : "2021"
+      academy : "Burkina Institute of Technology"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "Digital Product School"
+      year : "2019"
+      academy : "Burkina Institute of Technology"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
+    - title : "Higher Secondary Certificat Baccalaureat"
+      year : "2018"
+      academy : "Lycee Provincial de Koudougou"
       
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Secondary School Certificate BEPC"
+      year : "2014"
+      academy : "Lycee Departemental de Sigle"
 
 # service
 service:
   enable : true
   title : "Services"
   item:
-    - title : "UI Design"
+    - title : "Card Design"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Disign professional Card as (visite, marriage), logo Design, flyer and Video editing (Animation)"
       highlighted : false
 
-    - title : "UX Design"
+    - title : "Website Concepion"
       icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Dynamic or Static website developer. Mobile and Desktop App developer with Python (Kyvi)"
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "Logo Concepion"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Make logo for the entreprise, association"
       highlighted : false
 
 # portfolio
 portfolio:
-  enable : true
+  enable : false
   title : "Portfolio"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
@@ -122,7 +122,7 @@ testimonial:
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"

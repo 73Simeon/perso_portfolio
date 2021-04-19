@@ -21,8 +21,8 @@ params:
   map:
     enable: yes
     gmap_api: https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en
-    map_latitude: '51.5223477'
-    map_longitude: '-0.1622023'
+    map_latitude: '12.261511'
+    map_longitude: '-2.351378'
     map_marker: images/marker.png
   phone: +226 67 60 24 70/ 73 05 37 78
   plugins:

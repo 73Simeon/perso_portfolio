@@ -26,6 +26,12 @@ library(DT)
 
 
 ```{r}
+  
+datatable(gapminder)
+```
+
+
+```{r message=FALSE}
 
 gapminder %>% 
   ggplot(mapping = aes(x= year, y= lifeExp))+
@@ -38,10 +44,8 @@ gapminder %>%
 ```
 
 
-```{r}
+```{r message=FALSE}
 summary(cars)
-gapminder %>% 
-  datatable()
 
 fit <- lm(dist ~ speed, data = cars)
 fit

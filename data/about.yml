@@ -5,15 +5,15 @@ work_process:
   item:
   - title : "Research and Plan"
     icon : "images/icons/plan.png"
-    content : "When we want to implement a solution for a entreprise. We search to know what about the problem and try to find the solution. And analize the founding solution before to work on. If it is a project as coding we split the taches according to the speaciality of each one before to start"
+    content : "When we want to implement a solution for a entreprise. We search to know what about the problem and try to find the solution. And analize the founding solution before to work on. If it is a project as coding we split the taches according for the speciality of each one before to start"
     
   - title : "Design and Develop"
     icon : "images/icons/design.png"
-    content : "We sign contract with the owner to make sure that he need more the work and our side done all task the he suggest. In this part if we got the project the Manager of the groupe split the taches. At the end of the week third we go to show him the demo part of his work. After the owner have to give 50% of the money of the work!  "
+    content : "We sign contract with the owner to make sure that he need more the work and our side done all task the he suggest. In this part if we got the project the Manager of the groupe split the taches. At the end of the week third we go to show him the demo part of his work."
     
   - title : "Deliver"
     icon : "images/icons/print.png"
-    content : "After the demo part we finalize the work by ptting all information that the clients suggest. Before the delay date we go back to the clients to show him it works and if he as an other suggestion we rectify. In this same date we make a formation on back office for 5-6 hours for the clients and he have to give us 25% of rest of money. At the dalay date we host wesite or install the app in their computer. Two to four days after the hosting or installing we go back to the client to take the rest of the money "
+    content : "After the demo part we finalize the work by putting all information that the clients suggest. Before the delay date we go back to the clients to show him it works and if he as an other suggestion we rectify. In this same date we make a formation on back office for 5-6 hours for the clients. At the dalay date we host wesite or install the app in their computer. Two to four days after the hosting or installing we go back to the client for some feedback "
 
 
 # team

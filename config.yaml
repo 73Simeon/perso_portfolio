@@ -13,11 +13,11 @@ params:
     enable: yes
     expire_days: 2
   copyright: Copyright &design 2021 by Simeon ZONGO
-  description: This is meta description
+  description: Programming Is my Passion!
   email: zongowsimeon@email.com
   google_analytics_id: ''
   home: Home
-  logo: 'images/clients-logo/client-logo-1.png'
+  logo: 'images/clients-logo/logo1.png'
   map:
     enable: yes
     gmap_api: https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en

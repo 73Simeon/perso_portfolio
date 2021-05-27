@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Simeon <br>  Data Scientist"
+  title : "Hi! I’m <br> Simeon <br>  Data Scientist web and App Developper"
 
 # about
 about:
   enable : true
-  content : "Beginner in data analisize, I am a Senior Web Developer specializing in front end and back end development. Experienced with all stages of the development cycle for dynamic web projects. Well -versed in numerous programming languages including HTML5, PHP OOP, JavaScript, Python with pandas, matplotib and numpy, MySQL. Strong background in Project management and customer relations.Desktop and mobile App developer with **Kivy module**"
+  content : "Beginner in data analisize, I am a Senior Web Developer specializing in front end and back end development. Experienced with all stages of the development cycle for dynamic web projects. Well -versed in numerous programming languages including HTML5, PHP OOP, JavaScript, Python with pandas, matplotib and numpy, MySQL,R programming. Strong background in Project management and customer relations.Desktop, web and mobile App developer with **Kivy module** and Shiny"
   button:
     enable : true
     label : "know more"

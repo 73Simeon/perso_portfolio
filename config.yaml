@@ -17,7 +17,7 @@ params:
   email: zongowsimeon@email.com
   google_analytics_id: ''
   home: Home
-  logo: 'images/clients-logo/logo1.png'
+  logo: 'images/clients-logo/logo.png'
   map:
     enable: yes
     gmap_api: https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en
